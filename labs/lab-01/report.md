@@ -1,1 +1,55 @@
 # Lab 01 Report - Introduction to Open Source Software
+
+## 1.
+
+![Discord Message](Discord%20Message.png)
+
+## 2.
+
+### Smart Questions
+
+* `TODO`
+* `TODO`
+
+### Free Culture
+
+`TODO`
+
+## 3.
+
+![man tree](Tree%20screenshot.png)
+
+## 4.
+
+![Regex Problem 1](Regex%20Problem%201.png)
+
+![Regex Problem 2](Regex%20Problem%202.png)
+
+![Regex Problem 3](Regex%20Problem%203.png)
+
+![Regex Problem 4](Regex%20Problem%204.png)
+
+![Regex Problem 5](Regex%20Problem%205.png)
+
+![Regex Problem 6](Regex%20Problem%206.png)
+
+![Regex Problem 7](Regex%20Problem%207.png)
+
+![Regex Crossword 1](Regex%20Crossword%201.png)
+
+![Regex Crossword 2](Regex%20Crossword%202.png)
+
+![Regex Crossword 3](Regex%20Crossword%203.png)
+
+![Regex Crossword 4](Regex%20Crossword%204.png)
+
+![Regex Crossword 5](Regex%20Crossword%205.png)
+
+## 5. Blockly
+
+My first idea for the maze problem was to just continuously move forward until I reached a left turn, at which point turn left. This worked until I reached a point where I was forced to turn right. I had to add logic which checked three directions in the following order: left, then ahead, then right. Once it found a valid path, it moved that direction. This also worked until I reached a dead-end, at which point there are no valid paths in any of the three directions. I revised the code to make 2 right turns in the event of no right path, and this works, however I was able to make it slightly more efficient (uses one less block) by removing the double turn, and instead only moving forward if there is actually a path forward.
+
+![Maze Solution](Maze%20Solution%202.png)
+
+## 6.
+`TODO`
