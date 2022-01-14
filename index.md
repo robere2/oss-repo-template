@@ -1,8 +1,13 @@
-# Open Source Software - Summer 2019
-## (( Your Name Here ))
+# Open Source Software - Spring 2022
+## Erik Roberts
 
-## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+### Bio
+RCS ID: robere2
 
-## Lab Reports
+DISCORD: bugfroggy#8091
+
+![Photo of me](https://avatars.githubusercontent.com/u/7330807?s=200&v=4)
+
+
+### Lab Reports
 [Lab 1](labs/lab-01/report.md)
