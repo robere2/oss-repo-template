@@ -52,4 +52,5 @@ My first idea for the maze problem was to just continuously move forward until I
 ![Maze Solution](Maze%20Solution%202.png)
 
 ## 6.
-`TODO`
+https://github.com/vuetifyjs/vuetify
+Vuetify is a library I've worked with extensively for my own projects but haven't contributed to personally. Despite this, I think I have a decent understanding of how the library functions internally (<`v3.0.0`), due to having to repeatedly refer to internal code to figure out how other components work. Vuetify has an extensive set of ready-to-use components for webpage design. I think it'd be really cool to design and implement my own component, with the hopes of eventually getting it added to the frameworks main set of components. This would probably be a difficult task, but at the very least, I would hope to get a proposal in and have it reviewed by the project lead(s).
