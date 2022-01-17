@@ -8,12 +8,13 @@
 
 ### Smart Questions
 
-* `TODO`
-* `TODO`
+* Sometimes, people realize they are working on a tech stack or with tools which are not appropriate for the job. As long as they realize this, you shouldn't push them to use something else. This can be out of their control.
+* Extending off of point #2, when you link someone to a simple answer (such as a previously-answered question, FAQ, etc.), tell them how you found that resource. Many people do not realize these days how to properly use Google for tech searches.
+* If you can't help someone and think someone might be able to find more help on another forum, for example, point them in the right direction.
 
 ### Free Culture
-
-`TODO`
+ 
+This is an interesting story. RPI still shares this story today at it's student orientation presentations (as of 2018), and paints Jesse in a bad light. They advertise him as a pirate which single-handedly ran a music distribution torrenting service across the entire internet. If this article is true, that doesn't appear to at all be the case. I understand RPI has liability it must protect, but lying (or at least misleading) to its students seems like a bad idea, given the current relations. I did a bit of research and fortunately it seems like it did not have a severely negative impact on Jesse's career. As of 2013 he landed a senior software developer position. It also showcases the frustrating part of America's civil legal system, which admittedly I don't fully understand. The fact that Jesse would reportedly not be able to receive back his $250,000 in legal fees if he were to win feels unfair. I know that this is not always the case, as I have seen news stories of people receiving back their legal fees. Perhaps this is done through a counter-suit? Regardless, this is a flaw that needs fixing, if it has not already been fixed.
 
 ## 3.
 
