@@ -10,7 +10,7 @@
 
 * https://github.com/robere2/Spoon-Knife
 
-* TODO git branching program
+* ![learn-git-branching](learn-git-branching.png)
 
 ## Part 3
 
