@@ -8,4 +8,16 @@
 
 ## Part 2
 
+* https://github.com/robere2/Spoon-Knife
 
+* TODO git branching program
+
+## Part 3
+
+* https://github.com/robere2/PullReq
+
+* ![git-diff](git-diff.png)
+
+* ![git-tag](git-tag.png)
+
+* https://github.com/robere2/OSSProjectIdeas
