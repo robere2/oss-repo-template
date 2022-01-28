@@ -1,4 +1,12 @@
-## My project: rpi-alpaca/alpaca
+## Part 1
+
+![LaTeX.png](LaTeX.png)
+
+I completed this step on the wiki for this repository: https://github.com/robere2/oss-repo-template/wiki
+
+## Part 2
+
+### My project: rpi-alpaca/alpaca
 
 Total lines: 7205 (including image files; 2366 without image files)
 
@@ -10,7 +18,7 @@ Latest commit: "Merge pull request #16 from hjung4/fixmedia2..." 550d1c4f06c0697
 
 Current branches: master
 
-## Gitstats report:
+### Gitstats report:
 
 Total lines of code: 2383
 
@@ -22,10 +30,10 @@ Latest commit: I couldn't find the latest commit message/hash, but it occurred a
 
 Current branches: Total number of branches is not listed.
 
-## Gitstats screenshot:
+### Gitstats screenshot:
 
 ![gistats.png](gitstats.png)
 
-## Gource screenshot:
+### Gource screenshot:
 
 ![gource.png](gource.png)
