@@ -1,0 +1,31 @@
+# Lab 8
+
+## Part 1
+
+![cmake-gui-configured](cmake-gui-configured.png)
+
+![cmake-built](cmake-built.png)
+
+## Part 2
+
+1. Each section appears to list the source that ran the build test, and what its results were. When you click on a number in one of the columns, for example the number of passed tests, you can see which tests in particular passed. 
+2. In the build `cmake-fedora35_makefiles`, four tests failed. Those tests appear to be named: `FindPython.PyPy.V3.LOCATION`, `FindPython.PyPy.V3.VERSION`, `FindPython.PyPy3.LOCATION`, `FindPython.PyPy3.VERSION`. I'm not quite sure why it failed, however. You can click on the status to see the output, and, as the name implies, it appears it's not able to locate the Python installation? Here is a link to the specific build ID. https://open.cdash.org/viewTest.php?onlyfailed&buildid=7798137
+3. There are no test failures on master for the environment closest to what I am using. https://open.cdash.org/build/7796725
+
+There are no errors.
+
+![cmake-test-dashboard](cmake-test-dashboard.png)
+
+https://open.cdash.org/build/7798313
+
+## Part 3
+
+To start I ran the suggested command, `ctest -I 1,50` but this didn't really provide much info other than the fact that test 26 failed. I wasn't able to find my test on the dashboard. Perhaps because I didn't pass the experimental flag like last time? Anyway, I tweaked the command and this time ran `ctest -I 26,26 -VV`. This time I got the following output:
+
+![test-26-output](test-26-output.png)
+
+This tells me the error. So I updated the year in the Copyright.txt file, then re-ran it and it worked. To be sure, I re-ran all 50 tests again using the first command.
+
+![cmake-test-pass](cmake-test-pass.png)
+
+## Part 4
