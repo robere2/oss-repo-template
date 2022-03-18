@@ -29,3 +29,14 @@ This tells me the error. So I updated the year in the Copyright.txt file, then r
 ![cmake-test-pass](cmake-test-pass.png)
 
 ## Part 4
+
+My repository: 
+
+https://github.com/robere2/oss-lab-8-checkpoint-4/
+
+I was a bit confused for this step. I copied the Step5 folder from the cmake tutorials directory and committed that to Github. There were 9 tests built in, all of which passed. I used the auto-generated CMake GitHub action, and it passed as well. I verified to make sure it both builds and runs the tests, and it does.
+
+I added an additional test to CMakeLists.txt for 4096. I ran it and it appeared to work, so I pushed it to a new branch and created a PR, found here: https://github.com/robere2/oss-lab-8-checkpoint-4/pull/2 The GitHub Action passed as well, so it is now merged into the master branch.
+
+![github-action-tests-passing](github-action-tests-passing.png)
+![github-pr-passing](github-pr-passing.png)
